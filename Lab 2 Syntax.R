@@ -68,3 +68,13 @@ b[1:3]
 b,2
 b
 [1,3]
+data.frame(fish_data.Rdata)
+data.frame(fish)
+year column is a character dta type
+print.data.frame(fish)
+there are character, numeric, complex, ineger, and logical data types present
+is.factor(area_fac$x)
+is.factor(area_fac)
+factor_data
+is.factor(area_fac)
+delete.response(avg.DNE.m)
