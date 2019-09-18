@@ -58,4 +58,22 @@ nrow("test1_data.Rdata"")
 #There are 503441 rows and 18 columns
 
 head(test)
+load("test1_data.Rdata")
+d$tow <- as.character
+str(d)
+d$haul <- as.integer
 
+d$haul <- as.integer(d)
+str(d)
+d$sw.density <- NULL
+str(d)
+are 503441 rows and 18 columns
+str(test1_data.Rdata)
+str(test1_data.Rdata)
+str(d)
+t
+
+#transect is Charcater type
+#There are numerical, integer, factor, charcater, and dates
+
+d$tow <- as.character
